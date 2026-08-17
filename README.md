@@ -2,7 +2,7 @@
 
 A retailer hands you a year of order data and one question: where is the money actually being made, and where is it quietly leaking out? This project answers that using an Indian e-commerce dataset spanning April 2018 to March 2019 — 500 orders, 1,500 order lines, three product categories, and a set of monthly sales targets nobody had checked against actuals.
 
-![Dashboard overview](screenshots/dashboard-overview.png)
+![Dashboard-overview](screenshots/Dashboard-overview.png)
 
 ## The numbers going in
 
