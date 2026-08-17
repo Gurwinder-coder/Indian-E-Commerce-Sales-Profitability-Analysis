@@ -54,3 +54,9 @@ Python (pandas, matplotlib, seaborn) for cleaning and exploration, PostgreSQL fo
 ## What I'd do differently next time
 
 The profit margin at the sub-category level needs to be a proper weighted average (sum of profit divided by sum of revenue), not an average of individual order margins — I caught this mistake partway through and it's fixed now, but it's a reminder to check the math before trusting a chart. I'd also want a second year of data to say anything confident about the seasonal pattern rather than treating one January-to-July swing as a rule.
+
+
+## Author
+
+Gurwinder — B.Tech CSE student, building a data analyst portfolio.
+[LinkedIn](https://www.linkedin.com/in/gurwinder-singh-32b102344/) | [GitHub](https://github.com/Gurwinder-coder)
